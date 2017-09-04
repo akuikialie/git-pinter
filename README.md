@@ -11,4 +11,4 @@ April 2017
 
 <center><h5>1.0.0</h5></center>
 
-<center><span>Download PDF</span></center>
+[Download PDF](https://github.com/akuikialie/git-pinter/git-pinter.pdf)

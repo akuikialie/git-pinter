@@ -12,3 +12,5 @@
 * [2.2. Tambah Perubahan](2-dasar/2.2-add.md)
 * [2.3. Simpan Perubahan](2-dasar/2.3-commit.md)
 * [2.4. Unggah Perubahan](2-dasar/2.3-push.md)
+* [2.4. Unduh Perubahan](2-dasar/2.4-pull.md)
+* [2.5. Unduh Proyek](2-dasar/2.5-clone.md)

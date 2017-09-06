@@ -1,8 +1,6 @@
 # Summary
 
-* [Depan](README.md)
 * [Sambutan](sambutan.md)
-* [Daftar Isi](daftar-isi.md)
 * [Kosakata](kosakata.md)
 * [1. Awalan](1-awalan/1-teori.md)
 * [1.1. Pemasangan](1-awalan/1.1-pemasangan.md)

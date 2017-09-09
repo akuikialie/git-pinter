@@ -12,3 +12,7 @@
 * [2.4. Unggah Perubahan](2-dasar/2.3-push.md)
 * [2.4. Unduh Perubahan](2-dasar/2.4-pull.md)
 * [2.5. Unduh Proyek](2-dasar/2.5-clone.md)
+* [3. Branch](3-branch/3-pengenalan.md)
+* [3.1 Create Branch](3-branch/3.1-create.md)
+* [3.2 Checkout Branch](3-branch/3.2-checkout.md)
+* [3.3 Remove Branch](3-branch/3.3-delete.md)
